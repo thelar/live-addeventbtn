@@ -1,0 +1,18 @@
+{
+  "name": "thelar/live-addeventbtn",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/thelar/live-addeventbtn",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Price-Ward",
+      "email": "kevin@code-mill.co.uk",
+      "homepage": ""
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
