@@ -3,7 +3,7 @@
 Plugin Name: Live Add Event
 Description: Custom plugin to display the Add Event button - https://www.addevent.com/add-to-calendar-button
 Author: Kevin Price-Ward
-Version: 1.0
+Version: 1.1
 */
 function live_addevent_script()
 {
@@ -17,7 +17,7 @@ function live_addevent_shortcode(){
 	<div title="Add date to calendar" class="addeventatc" data-styling="none">
 		Add date to calendar
 		<span class="start">12/13/2018 09:00 AM</span>
-		<span class="end">12/13/2018 05:00 PM</span>
+		<span class="end">12/13/2018 04:00 PM</span>
 		<span class="timezone">Europe/London
 </span>
 		<span class="title">Jewson Live 2018</span>
