@@ -3,7 +3,7 @@
 Plugin Name: Live Add Event
 Description: Custom plugin to display the Add Event button - https://www.addevent.com/add-to-calendar-button
 Author: Kevin Price-Ward
-Version: 1.1
+Version: 1.2
 */
 function live_addevent_script()
 {
